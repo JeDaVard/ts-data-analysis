@@ -11,17 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="277f2b1c-5cbf-4545-98a3-0621843c3cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CsvFileReader.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatchReader.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatchResult.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/CsvFileReader.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/MatchReader.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/date.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatchData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Summary.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/analyzers/WinsAnalysis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportTargets/ConsoleReport.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CsvFileReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/CsvFileReader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchReader.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/CsvFileReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/CsvFileReader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/MatchReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/MatchReader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/date.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/date.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="TypeScript File" />
       </list>
     </option>
@@ -48,6 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/inheritance" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.6.0/lib/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$USER_HOME$/.nvm/versions/node/v14.6.0/lib/node_modules/typescript/lib" />
@@ -74,7 +77,8 @@
       <updated>1598966987416</updated>
       <workItem from="1598966988694" duration="121000" />
       <workItem from="1598982489377" duration="1662000" />
-      <workItem from="1599122461398" duration="4901000" />
+      <workItem from="1599122461398" duration="5877000" />
+      <workItem from="1599227077672" duration="8666000" />
     </task>
     <servers />
   </component>
@@ -91,15 +95,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598995860547">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1598995860547" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1599222782611">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1599227099982">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1599222782611" />
+    <state x="221" y="89" key="SettingsEditor/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1599227099982" />
   </component>
 </project>
