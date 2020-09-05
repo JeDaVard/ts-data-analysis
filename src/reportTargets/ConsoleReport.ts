@@ -1,8 +1,7 @@
 import { OutputTarget } from '../Summary'
 
 export class ConsoleReport implements OutputTarget {
-    constructor() {}
-    print(data: string): void {
-        console.log(data)
+    print(report: string): void {
+        console.log(report)
     }
 }

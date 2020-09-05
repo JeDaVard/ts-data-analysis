@@ -11,18 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="277f2b1c-5cbf-4545-98a3-0621843c3cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MatchData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Summary.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analyzers/WinsAnalysis.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportTargets/ConsoleReport.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportTargets/HtmlReport.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CsvFileReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/CsvFileReader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatchReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchReader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summary.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summary.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/CsvFileReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/CsvFileReader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/MatchReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/MatchReader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/date.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/date.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportTargets/ConsoleReport.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportTargets/ConsoleReport.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +71,7 @@
       <workItem from="1598966988694" duration="121000" />
       <workItem from="1598982489377" duration="1662000" />
       <workItem from="1599122461398" duration="5877000" />
-      <workItem from="1599227077672" duration="8666000" />
+      <workItem from="1599227077672" duration="11710000" />
     </task>
     <servers />
   </component>
